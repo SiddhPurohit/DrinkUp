@@ -1,2 +1,1 @@
-Thara Bhai Jogindar Sara Paani Pi Jayega. Bhavandar aayega Bhavandar.
-Sara Paani pi jauga, kisi ko pata nai chalega...
+A water reminder app made using flutter and firebase.
